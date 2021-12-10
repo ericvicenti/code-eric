@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="135px" height="36px" viewBox="0 0 135 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>codeEric</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-family="FiraMono-Bold, Fira Mono" font-size="22" font-weight="bold">
+        <text id="code(Eric)">
+            <tspan x="2.802522" y="26" fill="#2E90EF">code</tspan>
+            <tspan x="55.602522" y="26" fill="#3C3C3C">(</tspan>
+            <tspan x="68.802522" y="26" fill="#2E37EF">Eric</tspan>
+            <tspan x="121.602522" y="26" fill="#3C3C3C">)</tspan>
+        </text>
+    </g>
+</svg>
