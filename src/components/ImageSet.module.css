@@ -1,0 +1,20 @@
+
+.set {
+    padding: 20px 0;
+    display: flex;    
+    overflow-x: auto;
+}
+
+.image {
+    margin-right: 20px;
+    min-width: 260px;
+    display: flex;
+    flex-direction: column;
+    
+}
+.image img {
+    max-height: 240px;
+}
+.image span {
+    color: var(--ifm-color-emphasis-800);
+}

@@ -23,10 +23,10 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://github.com/ericvicent/code-eric/edit/main/website/',
+          editUrl: 'https://github.com/ericvicenti/code-eric/edit/main/website/',
         },
         blog: {
-          showReadingTime: true,
+          showReadingTime: false,
           editUrl:
             'https://github.com/ericvicent/code-eric/edit/main/website/blog/',
         },
