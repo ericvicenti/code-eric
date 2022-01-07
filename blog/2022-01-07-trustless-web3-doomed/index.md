@@ -3,7 +3,7 @@ title: The Trustless web3 is Doomed to Fail
 tags: [rant]
 ---
 
-I'm code(Eric), and I want to build a more ethical version of the web. The web operates on distributed systems of trust. I believe the next successful generation of the web will build upon this trust to reach new heights. Sadly, a majority of the current web3 conversation is focused on trustless networks like Ethereum.
+I'm code(Eric), and I want to build a more ethical version of the web. The web operates on distributed systems of trust. Sadly, a majority of the current web3 conversation is focused on trustless networks like Ethereum. But I believe the next successful generation of the web will build upon our existing web of trust to reach new heights.
 
 
 ## Our Distributed Trust Today
@@ -41,6 +41,7 @@ Bitcoin Cash was forked from the Bitcoin network to become a more practical curr
 
 Proof-of-Work builds upon several powerful crypto inventions that can be used in trusted systems to enable robust verification and transparency, without wasting incredible amounts of energy. A few such example technologies are: public key cryptography, content addressability, merkle trees, and blockchains.
 
+Since Bitcoin, Ethereum has risen as the de-facto "smartchain", which is more of a computer than a currency, capable of running generic code in a trustless fashion. With "smart contracts", it is possible to create trustworthy programs that handle money. The DAO may be the first type of human organization that is more resilient than companies and governments.
 
 ## Building Trust on Trustless networks
 
@@ -91,6 +92,8 @@ Real-world blockchain applications all tend to rely on a few centralized parties
 
 A trustless system like Ethereum is useful for those who like to stay in the shadows. If you want to avoid accountability, dodge taxes, skirt regulations, and ponzi to the moon, it is your best option.
 
+In theory, trustless networks enable you to build organizations like DAOs, that may survive into the deep future. But if they are built in a vacuum, without the support of trusted people, governments, and companies, they will have no lasting effect in the real world.
+
 Personally, I have limited interest in trustless systems. For my uses, they are extremely expensive, bad for the environment, and worst of all, they expose me to unnecessary risk.
 
-We should use crypto technologies to improve our existing web of trust, instead of promoting a safe-haven for criminals. We should support organizations who use public key cryptography and blockchains to improve transparency and allow forks. The most competitive organizations in the future will use crypto technology to create higher levels of trust upon our existing web, and I can't wait to help make that happen.
+We should use crypto technologies to improve our existing web of trust, instead of promoting a safe-haven for criminals. We should support organizations who use public key cryptography and blockchains to improve transparency, and enable forks. The most competitive organizations in the future will use crypto technology to create higher levels of trust upon our existing web, and I can't wait to help make that happen.

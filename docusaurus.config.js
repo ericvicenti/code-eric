@@ -40,6 +40,9 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      colorMode: {
+        disableSwitch: true
+      },
       navbar: {
         title: '',
         logo: {
@@ -62,7 +65,7 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Intro - Coming Soon!',
+                label: 'Intro - Coming Soon',
                 to: '/docs/intro',
               },
             ],
